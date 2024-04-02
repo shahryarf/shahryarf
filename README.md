@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShAhRyArF
 - 👀 I’m interested in LDPC code in 5G, and Bluetooth Low Energy (BLE).
 - 🌱 I’m currently learning Python and C.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shfaraji)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shahryarfa)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm fascinated by starships and space exploration, and I closely follow the Artemis missions to learn more about our universe
 
